@@ -14,4 +14,4 @@ This course aims to get an overview of Project Management Cloud, by having an in
 - Manage Projects for Work Planning
 - Manage project peformance by using predefined dashboards and infolets
  
-The assessment comprises 20 questions, with multiple choices and true/false selections. Aim to score 80% or more to pass.
+The assessment comprises 20 questions, with multiple choices and true/false selections. Aim to score 80% or higher to pass.
